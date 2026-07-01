@@ -1,7 +1,7 @@
 import streamlit as st
 from pypdf import PdfReader
 from evaluation import evaluate_response
-from Graph__ import graph
+from graph import graph
 import time
 
 # -------------------------------------------------
